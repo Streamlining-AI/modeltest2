@@ -1,0 +1,32 @@
+{
+	"input": [
+	  {
+		  "name": "image",
+		  "type" : "image",
+		  "description" : "example",
+		  "default" : "example",
+		  "optional" : {
+			  "min_length" : 1,
+			  "max_length" : 10,
+			  "choices" : ["example","example","example","example"]
+		  }
+	  },
+	  {
+		  "name": "blur",
+		  "type" : "int",
+		  "description" : "example",
+		  "default" : "example",
+		  "optional" : {
+			  "min_length" : 1,
+			  "max_length" : 10,
+			  "choices" : ["example","example","example","example"]
+		  }
+	  }
+  ],
+	"output" : 
+	   {
+		  "name": "output",
+		  "type" : "string"
+	  }
+	
+  }
