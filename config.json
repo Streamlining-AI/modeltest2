@@ -12,8 +12,8 @@
 		  "description" : "example",
 		  "default" : 1,
 		  "optional" : {
-			  "min_length" : 1,
-			  "max_length" : 10
+			  "ge" : 1,
+			  "le" : 10
 		  }
 	  }
   ],
