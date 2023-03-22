@@ -10,11 +10,10 @@
 		  "name": "blur",
 		  "type" : "int",
 		  "description" : "example",
-		  "default" : "example",
+		  "default" : 1,
 		  "optional" : {
 			  "min_length" : 1,
-			  "max_length" : 10,
-			  "choices" : ["example","example","example","example"]
+			  "max_length" : 10
 		  }
 	  }
   ],
